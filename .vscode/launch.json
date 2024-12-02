@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Play APP - Debug",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Play APP - Release",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
